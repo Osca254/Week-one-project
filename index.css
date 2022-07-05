@@ -5,40 +5,34 @@
 }
 body{
 
-    height: 100%;
+    height: 45%;
+    background-color: rgb(215, 232, 243);
 }
 .helping{
     color: rgb(33, 41, 163);
-    font-style: normal;
-}
+    /* justify-content: first baseline;
+    align-content: flex-end; */
+    
+    
+} 
 .div2{
     display: flex;
-    align-items: center;
+    /* align-items: center;
     justify-content: center;
 flex-wrap: nowrap;
 flex-direction: row;
 justify-items: center;
-align-items: center;
+align-items: center; */
 }
-.div5{
-    display: flex;
-    padding: 0px 2px 0px 4px;
-    justify-items: auto;
-    align-items: flex-start;
-    flex-direction: column;
-    text-align: left;
-    margin: 1px 0px 2px 4px ;
+.div2 img{
     
-
-}
-.div13{
-    background-color: blue ;
 }
 .div1 ul li{
   display: inline-block;
   position: relative;
   justify-content: space-between;
   align-content: center;
+  
   /* float: inline-start; */
   /* display: flex; */
 }
@@ -47,7 +41,8 @@ align-items: center;
     border-radius: 5px;
 }
 .div1{
-    padding: 0x 200px 0px 255px;
+    padding-left: 5%;
+    padding-right: 5%;
     list-style: none;
     /* line-height: 2px; */
 
@@ -56,6 +51,8 @@ align-items: center;
     display: flex;
     list-style: none;
     line-height: 0.8px;
+    padding-right: 3%;
+    
 
 }
 .icon {
@@ -66,15 +63,198 @@ align-items: center;
 .div3 ul {
     list-style: none;
     line-height: 10px;
-    display:inline-flex;
     padding-right: 100px;
+    display: flex
     
 }
-input type{
+/* .div3{
+    display: flex; */
+
+.div3 input{border-radius: 10%;
+   width: 20%;
+   height: 20%;
+   margin-top: 12%;
+   
+   
+   
     background-color: blue;
 }
 .div4 h3{
      color: blue;
      display: inline-flex;
-     padding-right: 150px;
+     padding-right: 201px;
+}
+.div4 p{
+    text-align:center;
+    padding-right: 200px;
+    line-height: 0.8px;
+        margin: 0.8px;
+
+}
+.div5{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(240, 236, 231);
+
+}
+.div13{
+    display: flex;
+}
+.div14{
+    display: flex;
+    background-color: rgb(26, 24, 158);
+    margin-top: 9%;
+}
+.div14 ul li{
+    list-style: none;
+}
+.div13 h3{
+    padding-bottom: 200px;
+    
+}
+.div15{
+ display: flex;  
+ padding-right: 100px;
+ padding-left: 100px;
+}
+.div12 button{color: rgb(242, 242, 247);
+box-sizing: 10px;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    margin-top: 300%;
+    
+    width:200%;
+    background-color: blue;
+    border-radius: 7px;
+   
+}
+.div16{
+    display: flex;
+    padding-top: 6%;
+}
+.div6{
+    width: 150%;
+    height: 50%;
+    background-color: aliceblue;
+    
+}
+.div7{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(240, 236, 231);
+}
+.div17{
+    align-items: center;
+    padding-left: 33%;
+}
+.div3 ul{
+    width: 360px;
+    height: 70px;
+    background-color: rgb(224, 224, 243);
+    position: relative;
+    text-align: center;
+    padding-top: 1.5%;
+    line-height: 120%;
+    
+}
+::placeholder{
+    color: aliceblue;
+}
+.div8{
+    display: flex;
+}
+.div10{width: 150%;
+    height: 40%;
+    background-color: aliceblue;
+}
+.div11{
+    width: 150%;
+    height: 50%;
+    margin-left: 9%;
+    background-color: aliceblue;
+}
+.div18{
+    width: 150%;
+    height: 50%;
+    background-color: aliceblue;
+    margin-left: 9%;
+}
+.div19{
+    display: flex;
+    list-style: none;
+    padding-right: 300%;
+    align-items: flex-start;
+}
+.div20{
+    display: flex;
+    list-style: none;
+}
+.div21{
+    display: flex;
+    list-style: none;
+}
+.div22{
+    color: blue;
+    text-align: center;
+}
+.div23{
+    display: flex;
+}
+.div24{
+    padding-left: 20px;
+    width: 150%;
+    height: 30%;
+    background-color: aliceblue;
+    margin-top: 9%;
+    border-radius: 11%;
+    padding-bottom: 20px;
+}
+.div25{
+    width: 150%;
+    height: 30%;
+    margin-top: 9%;
+    background-color: aliceblue;
+    margin-left: 5%;
+    border-radius: 11%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.div26{
+    width: 150%;
+    height: 30%;
+    margin-top: 9%;
+    background-color: aliceblue;
+    margin-left: 5%;
+    border-radius: 11%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.div4{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(240, 236, 231);
+}
+.div27{
+    width: 17%;
+    height: 5%;
+    /* background-color: rgb(240, 236, 231); */
+    margin: 5%;
+}
+.div28{
+    width: 17%;
+    height: 5%;
+    /* background-color: rgb(240, 236, 231); */
+    margin: 5%;
+}
+.div29{
+    width: 17%;
+    height: 5%;
+    /* background-color: rgb(240, 236, 231); */
+    margin: 5%;
+}
+.div30{
+    width: 17%;
+    height: 5%;
+    /* background-color: rgb(240, 236, 231); */
+    margin: 5%;
 }
