@@ -1,0 +1,80 @@
+.div1 h3{
+    font-style: italic;
+    font-size: medium;
+    text-align: justify;
+}
+body{
+
+    height: 100%;
+}
+.helping{
+    color: rgb(33, 41, 163);
+    font-style: normal;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+flex-wrap: nowrap;
+flex-direction: row;
+justify-items: center;
+align-items: center;
+}
+.div5{
+    display: flex;
+    padding: 0px 2px 0px 4px;
+    justify-items: auto;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+    margin: 1px 0px 2px 4px ;
+    
+
+}
+.div13{
+    background-color: blue ;
+}
+.div1 ul li{
+  display: inline-block;
+  position: relative;
+  justify-content: space-between;
+  align-content: center;
+  /* float: inline-start; */
+  /* display: flex; */
+}
+.div1 ul button{
+    background-color: blue;
+    border-radius: 5px;
+}
+.div1{
+    padding: 0x 200px 0px 255px;
+    list-style: none;
+    /* line-height: 2px; */
+
+}
+.div2{
+    display: flex;
+    list-style: none;
+    line-height: 0.8px;
+
+}
+.icon {
+    border-radius: 5px;
+    border: blue ;
+    
+}
+.div3 ul {
+    list-style: none;
+    line-height: 10px;
+    display:inline-flex;
+    padding-right: 100px;
+    
+}
+input type{
+    background-color: blue;
+}
+.div4 h3{
+     color: blue;
+     display: inline-flex;
+     padding-right: 150px;
+}
