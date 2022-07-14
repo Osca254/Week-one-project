@@ -1,8 +1,8 @@
-#Project Name
+##Project Name
 vallie'estate
-#Author's Name
+##Author's Name
 Oscar Okumu Ofula
-#Table of Contents
+##Table of Contents
 *General information
 *Tools Used in Development
 *Layout
