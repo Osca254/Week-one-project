@@ -6,7 +6,8 @@ Oscar Okumu Ofula
 * [General info](#General-info)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
-
+# General information
+Project entails creation of a website meant for an organisation called Vallie's Estate.It particularly deals with real estate .Due to high demand of accomadation this website intends to display the beautiful houses vallies offer,together it provides contacts to reach out for more information.
 
 
 
