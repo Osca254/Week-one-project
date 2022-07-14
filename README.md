@@ -3,7 +3,10 @@
 # Author's Name
 Oscar Okumu Ofula
 # Table of contents
-* General infomation
+* [General info](#General-info)
+* [Technologies](#Technologies)
+* [Setup](#Setup)
+
 
 
 
