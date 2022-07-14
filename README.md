@@ -13,7 +13,8 @@ Project entails creation of a website meant for an organisation called Vallie's 
 * HTML
 * Fonts awesome and icons
 # Setup
-To initiate this work get it from git hub through cloning with the aid of liveserver provided in the virtual studio .Make sure your machine is installed with vs code and chrome for compatibility.
+To initiate this work get it from git hub through cloning with the aid of liveserver provided in the virtual studio .
+Make sure your machine is installed with vs code and chrome for compatibility.
 # Github Pages Link for easy access to the project
 The web address :https://osca254.github.io/Week-one-project/
 
