@@ -92,10 +92,10 @@ align-items: center; */
 
 }
 .div5{
-    width: 50%;
-    height: 50%;
+    width: 10%;
+    height: 5%;
     background-color: rgb(240, 236, 231);
-
+padding-left: 3%;
 }
 .div13{
     display: flex;
@@ -133,15 +133,19 @@ box-sizing: 10px;
     padding-top: 6%;
 }
 .div6{
-    width: 150%;
-    height: 50%;
-    background-color: aliceblue;
+    width: 10%;
+    height: 5%;
+    background-color: rgb(240, 236, 231);
+padding-left: 3%;
+margin-left: 5%;
     
 }
 .div7{
-    width: 50%;
-    height: 50%;
+    width: 10%;
+    height: 5%;
     background-color: rgb(240, 236, 231);
+padding-left: 3%;
+margin-left: 5%;
 }
 .div17{
     align-items: center;
@@ -257,4 +261,11 @@ box-sizing: 10px;
     height: 5%;
     /* background-color: rgb(240, 236, 231); */
     margin: 5%;
+}
+.div31{
+    width: 90%;
+    height: 17%;
+}
+.div9{
+    align-items: center;
 }
