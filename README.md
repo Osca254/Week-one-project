@@ -18,7 +18,7 @@ Make sure your machine is installed with vs code and chrome for compatibility.
 # Github Pages Link for easy access to the project
 The web address :https://osca254.github.io/Week-one-project/
 ## License Information
-[GNU](LICENSE)
+[MIT](LICENSE)
 
 
 
