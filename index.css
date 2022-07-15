@@ -8,7 +8,7 @@
 body{
     font-style: Space Grotesk,Oleo Script;
     /* width: 900px; */
-    background-color:#FAFAFA;
+    background-color:#edf8f8;
 }
 .helping{
     color: rgb(33, 41, 163);
@@ -106,9 +106,11 @@ padding-left: 4%;
     display: flex;
     background-color: rgb(26, 24, 158);
     margin-top: 9%;
-    height: 400px;
+    justify-content: center;
+    align-items: center;
+    /* height: 400px; */
 }
-.div14 ul li{
+.div14 ,ul li{
     list-style: none;
 }
 /* .div13 h3{
@@ -243,7 +245,7 @@ margin-left: 5%;
 }
 .div4{display: flex;
     width: 700px;
-    /* height: 200px; */
+    height: 200px;
     background-color: rgb(240, 236, 231);
 }
 
