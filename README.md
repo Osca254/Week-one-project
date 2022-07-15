@@ -19,6 +19,7 @@ Make sure your machine is installed with vs code and chrome for compatibility.
 The web address :https://osca254.github.io/Week-one-project/
 ## License Information
 [MIT](LICENSE)
+Copyright (c) 2022 Osca254
 
 
 
